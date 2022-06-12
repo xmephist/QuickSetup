@@ -11,11 +11,13 @@ if DEBUG
 	
 #region Music Player | Stolen From PIXELPARTY
 
+var fadeTime = 100
+
 if(global.musicTarget != global.musicPlaying) { //if music has changed
 	if(global.musicPlaying == sx_nothing) { //if there was no music being played, no need to wait for fading
 		audio_sound_gain(global.music,0,0);
 	} else {
-		audio_sound_gain(global.music,0,100);
+		audio_sound_gain(global.music,0,fadeTime);
 	}
 	if(audio_sound_get_gain(global.music) == 0) { //when the old song finishes fading out
 		audio_stop_sound(global.music); //stop the old song
