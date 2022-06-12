@@ -11,7 +11,7 @@ gml_pragma("forceinline");
 
 // Globals
 
-global.IG_SCALE = 3
+global.IG_SCALE = 2 // Screen Scale
 
 global.musicEmitter = audio_emitter_create();
 global.soundEmitter = audio_emitter_create();
