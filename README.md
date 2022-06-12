@@ -48,3 +48,5 @@ The `audio` script is where you can play sounds and music. An example of Music()
    ```
   In the `MANAGER` object you can find a region in the Step event called "Music Player". If you wish to change the time it takes to fade between songs then change
   the `fadeTime` variable.
+<br><br>
+Credit to [@mike309game](https://github.com/mike309game) for rewriting my original music and sound handler in PIXELPARTY
