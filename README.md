@@ -1,11 +1,14 @@
 <h1>-- QuickSetup --</h1>
 This is a GMS2 project I use to quickly setup new projects because I'm tired of setting up the same thing.
 <br>
-Sorry if this has bugs, this is my first repo!
+Sorry if this has bugs, I'll make sure to fix any that are reported and any that I find
 <br> <br>
 Make sure to replace this stuff.
 
 ![image](https://user-images.githubusercontent.com/55968400/173220944-e7482417-124b-4060-9bb6-1b12b1b4962f.png)
+
+
+<h2> How to use Music Player </h2>
 
 <h2> How to use Music Player </h2>
 
