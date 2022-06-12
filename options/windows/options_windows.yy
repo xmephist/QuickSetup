@@ -1,8 +1,8 @@
 {
-  "option_windows_display_name": "GAMETITLE",
+  "option_windows_display_name": "REPLACE",
   "option_windows_executable_name": "REPLACE.exe",
   "option_windows_version": "1.0.0.0",
-  "option_windows_company_info": "Jaxel399",
+  "option_windows_company_info": "REPLACE",
   "option_windows_product_info": "",
   "option_windows_copyright_info": "",
   "option_windows_description_info": "",
