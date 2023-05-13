@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Extensions","order":1,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":2,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":3,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":4,"path":"folders/Objects.yy",},
+    {"name":"Paths","order":5,"path":"folders/Paths.yy",},
+    {"name":"QuickSetup","order":16,"path":"folders/QuickSetup.yy",},
+    {"name":"Rooms","order":6,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":7,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":8,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":9,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":10,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"QuickSetup v1.1 Changelog","order":15,"path":"notes/QuickSetup v1.1 Changelog/QuickSetup v1.1 Changelog.yy",},
+    {"name":"QuickSetup v1.1 Help","order":14,"path":"notes/QuickSetup v1.1 Help/QuickSetup v1.1 Help.yy",},
+    {"name":"_text","order":3,"path":"scripts/_text/_text.yy",},
+    {"name":"_debug","order":2,"path":"scripts/_debug/_debug.yy",},
+    {"name":"r_testroom","order":1,"path":"rooms/r_testroom/r_testroom.yy",},
+    {"name":"_audio","order":1,"path":"scripts/_audio/_audio.yy",},
+  ],
+}

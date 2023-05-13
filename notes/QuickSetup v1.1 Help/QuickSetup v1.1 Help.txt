@@ -1,0 +1,65 @@
+=======================================
+QuickSetup Toolkit v1.1
+=======================================
+This is a little toolkit I made to help in the process of setting up a new project
+these are just things I regularly use and got tired of coding over and over.
+Inside this note you'll find instructions on how to use all of the features in this
+project.
+=======================================
+
+=== MUSIC PLAYER ===
+
+The music player is really simple to use. The script for it is located in '_audio'
+You can see the details there.
+
+Simply use the Music() function to play music like this
+
+[[[[[
+[ 
+[ if( playMusic == true )
+[	{
+[		Music(MySong,Looping,FadeType);
+[	}
+[ 
+[[[[[[
+
+The fade types are as follows-
+
+0 : No Fade (Hard Cut)
+1 : Fade In & Out
+2 : Crossfade
+
+====================
+
+=== DEBUGGER ===
+
+This is my own 'in-house' tool I use for almost all projects
+It lists all rooms in the game (minus 2 characters at the start because of my
+own prefix preference for rooms
+
+You can press CTRL to toggle it
+
+There is also a debug screen that toggles an objects name at their origin
+You can add information to it in the step event. It displays basic information
+such as the build date & time, Game Framerate and Real Framerate, and the current room
+
+It can be toggled with TAB
+
+====================
+
+=== dbg() Script ===
+
+This script is a substitute for show_debug_message & show_message
+I got tired of writing them out so I made a script for them. It also displays
+the object that's calling it (Note: I have no idea what happens if you call it from 
+the script without it being invoked by an object)
+
+====================
+
+=== Camera System ===
+
+If you prefer viewports or just like making your own camera system
+you can get rid of this. It just creates a camera at Room Start for
+you to use.
+
+====================

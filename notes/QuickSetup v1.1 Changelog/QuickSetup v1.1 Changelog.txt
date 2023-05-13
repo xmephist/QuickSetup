@@ -1,0 +1,13 @@
+=======================================
+QuickSetup Toolkit v1.1
+=======================================
+Changelog v1.1
+======
+- Revamped Music Player (Less clutter with variables, uses an array now. May look into DS maps in the future!)
+- Simple automatic camera system (So you don't need to use viewports in rooms all the time :) )
+- New Debugging tool set (Some of my own debug tools)
+- New s_default for the new release!
+======
+Changelog v1.0
+- Initial Release
+======
