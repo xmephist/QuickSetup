@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Extensions","order":1,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":2,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":3,"path":"folders/Notes.yy",},
@@ -15,12 +15,12 @@
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"QuickSetup v1.1 Changelog","order":15,"path":"notes/QuickSetup v1.1 Changelog/QuickSetup v1.1 Changelog.yy",},
     {"name":"QuickSetup v1.1 Help","order":14,"path":"notes/QuickSetup v1.1 Help/QuickSetup v1.1 Help.yy",},
-    {"name":"_text","order":3,"path":"scripts/_text/_text.yy",},
-    {"name":"_debug","order":2,"path":"scripts/_debug/_debug.yy",},
     {"name":"r_testroom","order":1,"path":"rooms/r_testroom/r_testroom.yy",},
     {"name":"_audio","order":1,"path":"scripts/_audio/_audio.yy",},
+    {"name":"_debug","order":2,"path":"scripts/_debug/_debug.yy",},
+    {"name":"_text","order":3,"path":"scripts/_text/_text.yy",},
   ],
 }

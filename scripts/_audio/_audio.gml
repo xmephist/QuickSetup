@@ -6,7 +6,7 @@ function Sound(sfx,pitch = 1,vol = 1,loop = false)
 		return sound;
 	}
 
-function Music(music, loop = true, fade = 1) {
+function Music(music, loop = true, fade = 1, channel = 0) {
 	global.musicHandler[1] = music; // Set target music
 	global.musicHandler[2] = fade;	// Set music fade type
 	global.musicHandler[3] = loop	// If this song will loop or not
